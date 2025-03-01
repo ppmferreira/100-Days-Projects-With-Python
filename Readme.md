@@ -13,11 +13,11 @@ This challenge is inspired by the **"100 Days of Code: The Complete Python Pro B
 
 ## 📅 Project Roadmap
 
-| Day | Project Name                                            |
-| --- | ------------------------------------------------------- |
-| 1   | [Band Name Generator](Day01_BandNameGenerator/Readme.md)🎸 |
-| 2   | Coming soon...                                          |
-| 3   | Coming soon...                                          |
+| Day | Project Name                                              |
+| --- | --------------------------------------------------------- |
+| 1   | [Band Name Generator](Day01_BandNameGenerator/Readme.md)🎸   |
+| 2   | [Tip Calculator Challenge 💰](Day02_TipCalculator\readme.md) |
+| 3   | Coming soon...                                            |
 
 ... *(The list will be updated as more projects are completed.)*
 
@@ -26,7 +26,7 @@ This challenge is inspired by the **"100 Days of Code: The Complete Python Pro B
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/100-days-python-projects.git
+   git clone https://github.com/ppmferreira/100-Days-Projects-With-Python
    ```
 2. Navigate to a project folder:
 

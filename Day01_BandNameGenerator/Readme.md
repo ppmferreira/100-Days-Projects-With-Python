@@ -46,10 +46,4 @@ Your band name could be: New York Rocky! 🎶
    ```
 4. Follow the on-screen prompts and get your band name!
 
-## 📌 Next Steps
-
-* Customize the output with more styling.
-* Allow the user to generate multiple band names.
-* Save generated names in a file.
-
 Enjoy coding! 🚀
