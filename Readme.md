@@ -13,11 +13,18 @@ This challenge is inspired by the **"100 Days of Code: The Complete Python Pro B
 
 ## 📅 Project Roadmap
 
-| Day | Project Name                                              |
-| --- | --------------------------------------------------------- |
-| 1   | [Band Name Generator](Day01_BandNameGenerator/Readme.md)🎸   |
-| 2   | [Tip Calculator Challenge 💰](Day02_TipCalculator\readme.md) |
-| 3   | Coming soon...                                            |
+| Day | Project Name                                                  |
+| --- | ------------------------------------------------------------- |
+| 1   | [Band Name Generator](Day01_BandNameGenerator)🎸                 |
+| 2   | [Tip Calculator Challenge 💰](Day02_TipCalculator)               |
+| 3   | [Treasure Island Adventure 🏝️💰](Day03_TeasureIslandAdventure) |
+| 4   | Comming Soon...                                               |
+| 5   | Comming Soon...                                               |
+| 6   | Comming Soon...                                               |
+| 7   | Comming Soon...                                               |
+| 8   | Comming Soon...                                               |
+| 9   | Comming Soon...                                               |
+| 10  | Comming Soon...                                               |
 
 ... *(The list will be updated as more projects are completed.)*
 
